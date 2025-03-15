@@ -12,9 +12,9 @@ const Search=()=>{
       onChange={(e)=>weather.setSearchCity(e.target.value)}
       />
     </>
-  )
+  );
 
 
-}
+};
 
 export default Search;
